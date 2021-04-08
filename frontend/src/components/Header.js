@@ -24,7 +24,7 @@ function Header() {
                                         <Nav.Link><i className="fas fa-user"/> Login</Nav.Link>
                                 </LinkContainer>
                                     
-                                </Nav>
+                                </Nav> 
                             
                             </Navbar.Collapse>
                         </Container>

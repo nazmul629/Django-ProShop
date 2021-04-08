@@ -38,6 +38,7 @@ products = [
       'rating': 3,
       'numReviews': 12,
     },
+
     {
       '_id': '4',
       'name': 'Sony Playstation 4 Pro White Version',
@@ -78,3 +79,4 @@ products = [
       'numReviews': 12,
     },
   ]
+ 
